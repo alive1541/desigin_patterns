@@ -1,0 +1,25 @@
+{
+  "name": "desigin_patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alive1541/desigin_patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alive1541/desigin_patterns/issues"
+  },
+  "homepage": "https://github.com/alive1541/desigin_patterns#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0"
+  }
+}
