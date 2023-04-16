@@ -13,3 +13,5 @@
 - [组合模式](https://github.com/alive1541/desigin_patterns/tree/main/StructuralPattern/Composite)
 - [装饰器模式](https://github.com/alive1541/desigin_patterns/tree/main/StructuralPattern/Decorator)
 - [外观模式](https://github.com/alive1541/desigin_patterns/tree/main/StructuralPattern/Decorator)
+- [享元模式](https://github.com/alive1541/desigin_patterns/tree/main/StructuralPattern/Flyweight)
+- [代理模式](https://github.com/alive1541/desigin_patterns/tree/main/StructuralPattern/Proxy)
